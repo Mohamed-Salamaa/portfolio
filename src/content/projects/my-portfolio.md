@@ -1,6 +1,4 @@
-# Muhammad Salama
-
-**Software Engineer**
+# **Software Engineer**
 
 I build robust, scalable backends and orchestrate containerized deployments. My focus is on writing clean Python architectures, developing custom framework applications, and ensuring seamless integration between complex systems and third-party APIs.
 
@@ -35,14 +33,3 @@ I build robust, scalable backends and orchestrate containerized deployments. My 
 * **Overview:** Managed the deployment and troubleshooting lifecycle of containerized backend services.
 * **Architecture:** Configured persistent Docker volumes for safe data storage and utilized `k9s` to monitor, debug, and maintain the health of Kubernetes pods across different deployment environments.
 
----
-
-## 📬 Contact
-
-* **GitHub:** [github.com/salama-dev](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2Fsalama-dev)
-* **LinkedIn:** [linkedin.com/in/salama-backend](https://www.google.com/search?q=https%3A%2F%2Flinkedin.com%2Fin%2Fsalama-backend)
-* **Email:** hello@yourdomain.com
-
----
-
-Which of these project descriptions would you like to expand on first to turn into a full, detailed case study?
