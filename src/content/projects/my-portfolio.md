@@ -1,35 +1,31 @@
 # **Software Engineer**
 
-I build robust, scalable backends and orchestrate containerized deployments. My focus is on writing clean Python architectures, developing custom framework applications, and ensuring seamless integration between complex systems and third-party APIs.
+Senior Software Engineer with 4.5 years of experience specializing in Python and the Frappe Framework. Expertise in system design, custom API architecture, and third-party integrations, with a proven track record of optimizing system performance and solving complex engineering challenges. Skilled across multiple languages and backend frameworks to build scalable, high-availability solutions.
 
 ### 🛠️ Core Technologies
 
-* **Languages & Frameworks:** Python, Frappe Framework
-* **Infrastructure & DevOps:** Docker, Kubernetes, Linux (Ubuntu 24.02)
-* **Testing & API Management:** Postman, PyPika
+* **Languages:** Python, C#, and Javascript
+* **Databases:** Postgres, Maraidb, SQL
+* **Frameworks:** Frappe, Flask, and .NET
+* **Infrastructure & DevOps:** Docker, Linux, and Nginx
+* **Testing & CI/CD:** Pytest, GitHub Actions, and Ansible
 
 ---
 
 ## 💻 Featured Projects
 
-### WhatsApp API Integration via Taqnyat
+### Project 1
 
-**Stack:** Python, Frappe, Taqnyat API
+**Stack:** Python
 
-* **Overview:** Engineered a seamless messaging integration linking a custom backend to the Taqnyat platform.
-* **Architecture:** Designed the payload structures and step-by-step implementation logic to allow the Frappe application to reliably dispatch and receive WhatsApp communications, automating previously manual notification workflows.
+* **Overview:**
+* **Architecture:** 
 
-### Custom Database Context Manager
+### Project 2
 
-**Stack:** Python, PyPika
+**Stack:** Python
 
-* **Overview:** Developed a custom context manager for handling database connections safely and efficiently.
-* **Architecture:** Wrote backend logic to ensure reliable setup and teardown of database sessions, preventing memory leaks and optimizing connection pooling for high-performance data queries.
+* **Overview:** 
+* **Architecture:** 
 
-### Containerized Application Orchestration
-
-**Stack:** Docker, Kubernetes (k9s)
-
-* **Overview:** Managed the deployment and troubleshooting lifecycle of containerized backend services.
-* **Architecture:** Configured persistent Docker volumes for safe data storage and utilized `k9s` to monitor, debug, and maintain the health of Kubernetes pods across different deployment environments.
 
